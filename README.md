@@ -1,2 +1,2 @@
-# Aik---Crate-data-Debug-on-C-
+# Aik
 Data generator and debugger based on C++
